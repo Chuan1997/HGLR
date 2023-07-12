@@ -1,5 +1,5 @@
 #HGLR  
-The Codebase for KBS 2022 submitted paper  
+The Codebase for KBS 2023 submitted paper  
 #How to run  
 python main.py  
 #Params  
