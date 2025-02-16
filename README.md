@@ -1,7 +1,9 @@
 #HGLR  
 The Codebase for KBS 2023 submitted paper  
-#How to run  
-python main.py  
+#How to run
+```python
+python main.py
+```
 #Params  
 The detailed parameters for reproducing the experiments are presented in params.py  
 #The environment  
